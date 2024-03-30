@@ -1,2 +1,2 @@
 # bookbot
-Boot.Dev example project
+Boot.Dev example project.
